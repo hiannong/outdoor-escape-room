@@ -140,7 +140,7 @@ window.GAME_CONFIG = {
 
   stage4: {
     title: "본관 1층 밖 잔디 광장",
-    image: "./images/quiz-5.jpg",
+    image: "./images/quiz_5.jpg",
     finalDestination: "여러 사람들이 돌아다니면서 휴가를 즐기고 있다.",
     travelStory: "근처에도 리조트가 있더니 사람이 진짜 많구나. 다들 행복해보인다.",
     talkTopic: "🗣️ 대화할 때 호감이 가거나 설레는 포인트는 무엇인가요?",
