@@ -4,7 +4,7 @@ window.GAME_CONFIG = {
     subtitle: "#야외방탈출 #낯선만남 #감성",
     heroImage: "./images/방탈출포스터.png",
     heroFit: "contain", // 'contain' so images are never cropped/cut off
-    bgmUrl: "1234.mp3"
+    bgmUrl: "방탈출음악.mp3"
   },
   
   intro: {
