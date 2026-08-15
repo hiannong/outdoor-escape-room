@@ -11,7 +11,8 @@ window.GAME_CONFIG = {
     storyText: `바쁜 일상으로 지친 당신.
 오랜만에 강원도로 휴가를 떠났습니다.
 그곳에서 마주친 낯설지만 설레고, 두근거리는 인연.
-당신은 그 이야기를 어떻게 이어가겠습니까?`,
+당신은 그 이야기를 어떻게 이어가겠습니까?
+- 시작하시기 전에 휴대폰 미디어 볼륨을 높여주세요! -`,
     rooms: {
       roomA: {
         id: "roomA",
@@ -77,7 +78,7 @@ window.GAME_CONFIG = {
     locations: [
       {
         id: "loc1",
-        name: "웰리힐리 본관 1층",
+        name: "웰리힐리 서관 1층",
         subtitle: "그녀가 간 곳",
         image: "./images/quiz_1.jpg",
         travelStory: "그 사람도 여기는 처음인지 이곳저곳을 돌아다닌 것 같다.",
